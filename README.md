@@ -1,1 +1,3 @@
 # git_test
+Hello looky-loos!
+First repository, just testing Git...
